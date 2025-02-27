@@ -37,8 +37,8 @@ scanf("%d", &pontoturistico);
 //Características da carta 01
 
 printf("O estado é: %s - Código: %s\n", estado, codigo);
-printf("A cidade é: %s - Com uma população de: %d milhões de pessoas\n", cidade, populacao);
-printf(" Sua área em Km² é de: %.3f - Com um PIB de: %.2f\n", areakm, pib);
+printf("A cidade é: %s - Com uma população de: %d Milhões de pessoas\n", cidade, populacao);
+printf(" Sua área em Km² é de: %.3f Km² - Com um PIB de: %.2f Milhões\n", areakm, pib);
 printf(" Contando com: %.d pontos turísticos\n", pontoturistico);
 
 
@@ -70,8 +70,8 @@ scanf("%d", &pontoturistico2);
 //Características da carta 02
 
 printf("O estado é: %s - Código: %s\n", estado2, codigo2);
-printf("A cidade é: %s - Com uma população de: %d milhões de pessoas\n", cidade2, populacao2);
-printf(" Sua área em Km² é de: %.3f - Com um PIB de: %.2f\n", areakm2, pib2);
+printf("A cidade é: %s - Com uma população de: %d Milhões de pessoas\n", cidade2, populacao2);
+printf(" Sua área em Km² é de: %.3f Km² - Com um PIB de: %.2f Milhões\n", areakm2, pib2);
 printf(" Contando com: %.d pontos turísticos\n", pontoturistico2);
 
 
